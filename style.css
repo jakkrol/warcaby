@@ -1,0 +1,21 @@
+.box {
+    width: 900px;
+    height: 900px;
+    margin: auto;
+}
+
+.wh {
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    float: left;
+    border: 1px solid black;
+}
+
+.bl {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    float: left;
+    border: 1px solid black;
+}
